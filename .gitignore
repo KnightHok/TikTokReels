@@ -1,0 +1,6 @@
+# read/write files
+*.mp4
+log.json
+
+# mac stuff
+.DS_Store
